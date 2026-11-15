@@ -51,4 +51,4 @@ Each skill is a plain Markdown file (`SKILL.md`, plus templates under `reference
 
 ---
 
-Built for the [Clean Architecture template](https://www.milanjovanovic.tech) by Milan Jovanović.
+Built for the [Clean Architecture template](../../README.md) by **Ramazan Abdullah**.

@@ -19,6 +19,11 @@
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
 
 	<NoWarn>NU1608</NoWarn>
+
+    <Authors>Ramazan Abdullah</Authors>
+    <Company>Ramazan Abdullah</Company>
+    <Product>Clean Architecture Template</Product>
+    <Copyright>Copyright © Ramazan Abdullah</Copyright>
   </PropertyGroup>
   <ItemGroup Condition="'$(MSBuildProjectExtension)' != '.dcproj'">
     <PackageReference Include="SonarAnalyzer.CSharp">
